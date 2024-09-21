@@ -1,0 +1,24 @@
+
+*************************************
+467
+Name : Deneme_2
+Lastname : deneme_2
+Age : 21
+Blood Type : B+
+Phone Number : 2344
+
+*************************************
+334
+Name : Kalan
+Lastname : kalan
+Age : 34
+Blood Type : AB+
+Phone Number : 12345
+
+*************************************
+Patient No : 41
+Name : Engin
+Lastname : Aktas
+Age : 20
+Blood Type : A+
+Phone Number : 4t5934
